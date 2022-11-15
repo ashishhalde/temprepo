@@ -1,0 +1,14 @@
+1=> git checkout -b <name of branch>	
+  :-To create new branch
+
+2=> git checkout <name of branch>
+  :- To switch on new branch
+
+3=> git branch -d <name of branch>
+  :- o delete specific branch
+
+4=> rm -rf .git
+  :- it will delete the repository or .git file from the folder .
+
+5=> git rm <file name> :-
+  :- To remove file from the folder.

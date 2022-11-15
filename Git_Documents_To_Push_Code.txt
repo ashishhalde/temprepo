@@ -1,0 +1,29 @@
+Steps :-
+1=> open git bash
+
+2=> git init :- To make a specific folder as a git repository
+
+3=> git config --global user.name "name"
+    git config -- global user.email "email"  :- Both are used to set name and email who is performing actions.
+
+    (only once at first time)
+
+4=> git add --a or git add -A or git add . :- To add files into staging area.
+
+    git add <file name> :- To add specific file to staging area
+
+5=> git commit -m "Comment" :-
+
+6=> git remote add origin url :- To add repository with folder.
+
+7=> git push origin <Branch name> :- To push code into specific branch
+
+
+
+=> git clone url :- It will clone project from repo to our folder
+
+=> git pull url :- it will take all updates from any branch to folder
+   first we have to switch focus on specific branch
+  
+
+    
